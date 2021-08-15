@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+e9FYo01fh2HSRXoEdZHpJKoU8gJs5MuKRKEnoRTNdYipDvtEtPieLej8J3qJNuNGl3m1mTJcjgrk8yCCTiuKg==",
+  "dgSpecHash": "i7qD5F0PjW2dTncTQhaCFab3vSm/1+IltcBws93bKSua7su+NT5o9J/hXYMrfx8o4XY0H39nmVePhXQ5a2Tkqw==",
   "success": true,
-  "projectFilePath": "C:\\KZM\\dotnet5\\dotnet5.csproj",
+  "projectFilePath": "/workspaces/dotnettest/dotnet5.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
