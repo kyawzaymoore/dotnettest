@@ -10,7 +10,7 @@ namespace dotnet5
 
             string name = "Kyaw Zay Moore";
             string output = $"Hello {name}!";
-            Console.WriteLine(output);
+            Console.WriteLine(output); //Test
         }
     }
 }
